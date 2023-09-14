@@ -438,62 +438,7 @@
     "capital": "", 
     "population": "37997", 
     "population_proper": "37997"
-  }, 
-  {
-    "city": "Al Karnak", 
-    "lat": "25.7186", 
-    "lng": "32.6586", 
-    "country": "Egypt", 
-    "iso2": "EG", 
-    "admin_name": "Al Uqşur", 
-    "capital": "", 
-    "population": "26488", 
-    "population_proper": "26488"
-  }, 
-  {
-    "city": "Mīt Namā", 
-    "lat": "30.1453", 
-    "lng": "31.2343", 
-    "country": "Egypt", 
-    "iso2": "EG", 
-    "admin_name": "Al Qalyūbīyah", 
-    "capital": "", 
-    "population": "21321", 
-    "population_proper": "21321"
-  }, 
-  {
-    "city": "Banī Murr", 
-    "lat": "27.2272", 
-    "lng": "31.1944", 
-    "country": "Egypt", 
-    "iso2": "EG", 
-    "admin_name": "Asyūţ", 
-    "capital": "", 
-    "population": "20065", 
-    "population_proper": "20065"
-  }, 
-  {
-    "city": "Al Madāmūd", 
-    "lat": "25.7333", 
-    "lng": "32.7125", 
-    "country": "Egypt", 
-    "iso2": "EG", 
-    "admin_name": "Al Uqşur", 
-    "capital": "", 
-    "population": "15091", 
-    "population_proper": "15091"
-  }, 
-  {
-    "city": "Birqāsh", 
-    "lat": "30.1692", 
-    "lng": "31.0417", 
-    "country": "Egypt", 
-    "iso2": "EG", 
-    "admin_name": "Al Jīzah", 
-    "capital": "", 
-    "population": "14172", 
-    "population_proper": "14172"
-  }, 
+  },
   {
     "city": "Kafr Ţaḩlah", 
     "lat": "30.3981", 
